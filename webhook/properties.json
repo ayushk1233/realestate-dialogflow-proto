@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Prestige Lake View",
+    "location": "Whitefield",
+    "bhk_config": "2 BHK",
+    "budget": 75,
+    "property_type": "flat",
+    "amenities": ["gym", "swimming pool"]
+  },
+  {
+    "name": "Sobha City",
+    "location": "Whitefield",
+    "bhk_config": "3 BHK",
+    "budget": 120,
+    "property_type": "flat",
+    "amenities": ["gym", "garden"]
+  },
+  {
+    "name": "DLF Towers",
+    "location": "Mumbai",
+    "bhk_config": "2 BHK",
+    "budget": 150,
+    "property_type": "apartment",
+    "amenities": ["car parking", "clubhouse"]
+  },
+  {
+    "name": "Godrej Greens",
+    "location": "Pune",
+    "bhk_config": "2 BHK",
+    "budget": 60,
+    "property_type": "flat",
+    "amenities": ["garden", "gym"]
+  }
+]
